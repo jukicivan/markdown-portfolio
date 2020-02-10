@@ -1,4 +1,4 @@
-*statistics
-*programming
-*r
--biomechanics
+* statistics
+* programming
+* r
+- biomechanics
