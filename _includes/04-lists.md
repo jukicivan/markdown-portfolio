@@ -1,0 +1,4 @@
+* statistics
+* programming
+* r
+- biomechanics
